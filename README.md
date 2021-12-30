@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there 👋
+
+I'm Guido Rodriguez. Let me tell you more about me ...
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApophisXIV&layout=compact&theme=gruvbox)](https://github.com/ApophisXIV/github-readme-stats)
+
+## Joke of the day
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!--
 **ApophisXIV/ApophisXIV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
