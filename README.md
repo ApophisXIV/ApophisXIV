@@ -7,6 +7,9 @@ I'm Guido Rodriguez. Let me tell you more about me ...
 ## Joke of the day
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+## 🌱 I’m currently learning ...
+  - Sockets in C
+  - Embededded C in a bare-metal environment (STM32F1 and ESP32)
 <!--
 **ApophisXIV/ApophisXIV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
