@@ -1,6 +1,7 @@
 # Hi there 👋
 
-I'm Guido Rodriguez. Let me tell you more about me ...
+Let me tell you more about me ...
+I'm Guido Rodriguez, an electronics technician with knowledge in embedded system development. Actually, I'm studying Electronics Engineer degree at the University of Buenos Aires, Argentina. One of the projects I developed during my high school period that I'm proud of is a basic AHRS with GPS and Lora communication called Proyecto Piazzolla, inspired by the tango of Piazzola "Libertango". It was selected for a local science fair as one of the best projects. (https://www.buenosaires.gob.ar/educacion/innova/secundaria-tecnica/proyecto-piazzolla) On another side, I'm a music lover, mainly classical music like Bach and some Indie rock.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApophisXIV&layout=compact&theme=gruvbox)](https://github.com/ApophisXIV/github-readme-stats)
 
@@ -10,6 +11,7 @@ I'm Guido Rodriguez. Let me tell you more about me ...
 ## 🌱 I’m currently learning ...
   - Sockets in C
   - Embededded C in a bare-metal environment (STM32F1 and ESP32)
+  - Some Rust 🦀
 <!--
 **ApophisXIV/ApophisXIV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
